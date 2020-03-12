@@ -1,0 +1,6 @@
+C:\Eduardo C#\Exercicio_oo_1\Exercicio_oo_1\bin\Debug\Exercicio_oo_1.exe.config
+C:\Eduardo C#\Exercicio_oo_1\Exercicio_oo_1\obj\Debug\Exercicio_oo_1.csprojResolveAssemblyReference.cache
+C:\Eduardo C#\Exercicio_oo_1\Exercicio_oo_1\bin\Debug\Exercicio_oo_1.exe
+C:\Eduardo C#\Exercicio_oo_1\Exercicio_oo_1\bin\Debug\Exercicio_oo_1.pdb
+C:\Eduardo C#\Exercicio_oo_1\Exercicio_oo_1\obj\Debug\Exercicio_oo_1.exe
+C:\Eduardo C#\Exercicio_oo_1\Exercicio_oo_1\obj\Debug\Exercicio_oo_1.pdb
