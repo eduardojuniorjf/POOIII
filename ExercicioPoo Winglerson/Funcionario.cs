@@ -11,13 +11,13 @@ namespace Exercicio_oo_1
          int matricula;
 
      
-        public Funcionario(String nome, String cpf, String cargo, String religiao, int matricula)//Construtor do objeto funcionário, só funciona se o CPF for válido
+        public Funcionario(String nome, String cpf, String cargo, int matricula)//Construtor do objeto funcionário, só funciona se o CPF for válido
         {
             if(this.ValidaCpf(cpf))
-            this.RegFunc(nome, cpf, cargo, religiao, matricula);
+            this.RegFunc(nome, cpf, cargo, matricula);
         }
 
-        public void RegFunc(String nome, String cpf, String cargo, String religiao,  int matricula) //Registro de funcionarios
+        public void RegFunc(String nome, String cpf, String cargo,  int matricula) //Registro de funcionarios
         {
             this.nome = nome;
             this.cpf = cpf;
