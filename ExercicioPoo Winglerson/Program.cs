@@ -15,7 +15,7 @@ namespace Exercicio_oo_1
 
             Console.WriteLine("Qual o formulário será preenchido? ");
             Console.WriteLine("1 - Cadastro de funcionário  | 2 - Rede Social " );
-            opcao = Console.Read();
+            opcao = int.Parse(Console.ReadLine());
 
             if (opcao == 1) {
 

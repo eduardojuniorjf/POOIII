@@ -33,7 +33,7 @@ namespace Exercicio_oo_1
 
         public override string ToString()
         {
-            return "Dados do Funfionário" + " \nNome: " + nome + " \nCPF: " + cpf + " \nCargo: " + cargo +  " \nMatricula: " + matricula;
+            return "\n\nDados do Funcionário" + " \nNome: " + nome + " \nCPF: " + cpf + " \nCargo: " + cargo +  " \nMatricula: " + matricula;
 
         }
 
